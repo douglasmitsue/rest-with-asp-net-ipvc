@@ -1,0 +1,6 @@
+@RestWithASPNET10IPVCVSC_HostAddress = http://localhost:5280
+
+GET {{RestWithASPNET10IPVCVSC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
